@@ -31,7 +31,7 @@ I'm a backend developer who likes typed APIs, automated tests and CI from the fi
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,sqlite,redis,rabbitmq&perline=8" alt="Node.js, NestJS, Express, Prisma, PostgreSQL, SQLite, Redis, RabbitMQ" />
 
 **DevOps, testing and tools**<br>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,maven,vitest,junit,postman&perline=7" alt="Docker, GitHub Actions, Git, Maven, Vitest, JUnit, Postman" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,maven,vitest,junit,postman&perline=7" alt="Docker, GitHub Actions, Git, Maven, Vitest, Postman" />
 
 </div>
 
