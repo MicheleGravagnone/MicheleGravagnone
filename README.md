@@ -28,13 +28,19 @@ I'm a backend developer with a growing focus on **cloud, distributed systems and
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,bash,html,css&perline=7" alt="TypeScript, JavaScript, Java, Python, Bash, HTML, CSS" />
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,graphql,postgres,mongodb,redis&perline=8" alt="Node.js, NestJS, Express, Spring, GraphQL, PostgreSQL, MongoDB, Redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,rabbitmq&perline=6" alt="Node.js, NestJS, Express, Spring, GraphQL, RabbitMQ" />
+
+**Databases and ORM**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="PostgreSQL, MongoDB, Redis, Prisma" />
 
 **Cloud and DevOps**<br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,nginx,linux,git&perline=8" alt="Docker, Kubernetes, AWS, Terraform, GitHub Actions, Nginx, Linux, Git" />
 
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite&perline=4" alt="Angular, React, Tailwind CSS, Vite" />
+
+**Testing and tools**<br>
+<img src="https://skillicons.dev/icons?i=vitest,postman&perline=2" alt="Vitest, Postman" />
 
 </div>
 
