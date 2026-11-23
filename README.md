@@ -14,7 +14,7 @@ Building backends, APIs and the infrastructure underneath them.
 
 ### About me
 
-I'm a backend developer who likes typed APIs, automated tests and CI from the first commit, and I'm moving deeper into cloud and distributed systems.
+I'm a backend engineer and MSc student in Computer Science and Information Technology at Lodz University of Technology. I design systems and build APIs and services in TypeScript and Python, and I like being the one who can explain why they matter, from the architecture to the business problem.
 
 - **Latest:** built the backend of [Vero](https://github.com/MicheleGravagnone/vero-autonomous-cfo), an autonomous CFO for small businesses, at Collabothon 2026 (Commerzbank × Red Hat challenge), running on Red Hat OpenShift AI
 - **Building:** the backend for a wildlife monitoring system that collects detections from ESP32 camera and PIR sensors in parks around Łódź
