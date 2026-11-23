@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:134e4a,100:0d9488&section=header&text=Michele%20Gravagnone&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Backend,%20Cloud%20and%20DevOps&descAlignY=60&descSize=16" alt="Michele Gravagnone, Backend & Cloud" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:134e4a,100:0d9488&section=header&text=Michele%20Gravagnone&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Backend%20and%20Cloud&descAlignY=60&descSize=16" alt="Michele Gravagnone, Backend & Cloud" width="100%" />
 
 **Computer Science MSc student @ Łódź University of Technology**
 Building backends, APIs and the infrastructure underneath them.
